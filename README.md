@@ -146,28 +146,43 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jasminpucchakayala-maker&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jasminpucchakayala-maker&layout=compact&theme=tokyonight&hide_border=true" />
+
+<a href="https://github.com/jasminpucchakayala-maker">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jasminpucchakayala-maker&show_icons=true&theme=tokyonight&hide_border=true#gh-dark-mode-only" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jasminpucchakayala-maker&show_icons=true&theme=default&hide_border=true#gh-light-mode-only" />
+</a>
+
+<a href="https://github.com/jasminpucchakayala-maker">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasminpucchakayala-maker&layout=compact&theme=tokyonight&hide_border=true#gh-dark-mode-only" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasminpucchakayala-maker&layout=compact&theme=default&hide_border=true#gh-light-mode-only" />
+</a>
+
 </p>
+
+
 ---
 
 # 🔥 GitHub Streak
 
-<div align="center">
+<p align="center">
 
-<img src="https://streak-stats.demolab.com?user=jasminpucchakayala-maker&hide_border=true&ring=F8BBD9&fire=D8B4F8&currStreakLabel=F8BBD9"/>
+<img src="https://streak-stats.demolab.com?user=jasminpucchakayala-maker&theme=tokyonight&hide_border=true#gh-dark-mode-only"/>
 
-</div>
+<img src="https://streak-stats.demolab.com?user=jasminpucchakayala-maker&theme=default&hide_border=true#gh-light-mode-only"/>
+
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jasminpucchakayala-maker&bg_color=ffffff&color=D8B4F8&line=F8BBD9&point=F4C2C2&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jasminpucchakayala-maker&theme=tokyo-night&hide_border=true#gh-dark-mode-only"/>
 
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jasminpucchakayala-maker&theme=github-light&hide_border=true#gh-light-mode-only"/>
+
+</p>
 
 ---
 
