@@ -143,7 +143,6 @@
 
 ---
 
-## 📊 GitHub Statistics
 
 ## 📊 GitHub Statistics
 
