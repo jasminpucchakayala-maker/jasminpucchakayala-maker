@@ -176,14 +176,13 @@
 
 ---
 
-# 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jasminpucchakayala-maker&theme=flat&margin-w=15&margin-h=15&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jasminpucchakayala-maker&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4"/>
 
 </div>
-
 ---
 
 # 🌱 Currently Learning
