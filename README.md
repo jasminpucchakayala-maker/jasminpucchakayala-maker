@@ -176,14 +176,6 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jasminpucchakayala-maker&theme=tokyonight&no-frame=true"/>
-
-</div>
----
 
 # 🌱 Currently Learning
 
