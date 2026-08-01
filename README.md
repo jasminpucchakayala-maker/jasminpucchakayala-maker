@@ -143,16 +143,15 @@
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=jasminpucchakayala-maker&show_icons=true&hide_border=true&title_color=F8BBD9&icon_color=D8B4F8&text_color=666&bg_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jasminpucchakayala-maker&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasminpucchakayala-maker&layout=compact&hide_border=true&title_color=F8BBD9&text_color=666&bg_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasminpucchakayala-maker&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
 ---
 
 # 🔥 GitHub Streak
