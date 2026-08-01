@@ -145,20 +145,12 @@
 
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <p align="center">
-
-<a href="https://github.com/jasminpucchakayala-maker">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jasminpucchakayala-maker&show_icons=true&theme=tokyonight&hide_border=true#gh-dark-mode-only" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jasminpucchakayala-maker&show_icons=true&theme=default&hide_border=true#gh-light-mode-only" />
-</a>
-
-<a href="https://github.com/jasminpucchakayala-maker">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasminpucchakayala-maker&layout=compact&theme=tokyonight&hide_border=true#gh-dark-mode-only" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasminpucchakayala-maker&layout=compact&theme=default&hide_border=true#gh-light-mode-only" />
-</a>
-
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jasminpucchakayala-maker&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jasminpucchakayala-maker&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 
 ---
 
@@ -168,7 +160,6 @@
 
 <img src="https://streak-stats.demolab.com?user=jasminpucchakayala-maker&theme=tokyonight&hide_border=true#gh-dark-mode-only"/>
 
-<img src="https://streak-stats.demolab.com?user=jasminpucchakayala-maker&theme=default&hide_border=true#gh-light-mode-only"/>
 
 </p>
 
@@ -180,7 +171,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jasminpucchakayala-maker&theme=tokyo-night&hide_border=true#gh-dark-mode-only"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jasminpucchakayala-maker&theme=github-light&hide_border=true#gh-light-mode-only"/>
 
 </p>
 
