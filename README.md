@@ -1,14 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=20,24,30&text=Jasmin%20Pucchakayala&fontColor=F8BBD9&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Artificial%20Intelligence%20%26%20Data%20Science%20Student&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD9,D8B4F8&height=230&section=header&text=Jasmin%20Pucchakayala&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Artificial%20Intelligence%20%26%20Data%20Science%20Student&descAlignY=55"/>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Jasmin
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&center=true&vCenter=true&width=750&color=F8BBD9&lines=Artificial+Intelligence+%26+Data+Science;Machine+Learning+Enthusiast;Python+Developer;Building+AI+Powered+Applications;Creating+Beautiful+User+Experiences;Always+Learning+Something+New+🌸)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&center=true&vCenter=true&width=750&color=F8BBD9&lines=Artificial+Intelligence+%26+Data+Science;Machine+Learning+Enthusiast;Python+Developer;Building+AI+Powered+Applications;Creating+Beautiful+User+Experiences;Always+Learning+Something+New+%F0%9F%8C%B8)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=jasminpucchakayala-maker&label=Profile+Views&color=F8BBD9&style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/followers/jasminpucchakayala-maker?style=for-the-badge&color=D8B4F8"/>
+<img src="https://img.shields.io/github/stars/jasminpucchakayala-maker?style=for-the-badge&color=F8BBD9"/>
 
 </div>
 
@@ -18,11 +19,11 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-🎓 **B.Tech in Artificial Intelligence & Data Science**
+🎓 **B.Tech Artificial Intelligence & Data Science Student**
 
-💻 Passionate about Artificial Intelligence, Machine Learning & Data Science
+💻 Passionate about AI, Machine Learning & Data Science
 
-🤖 Building intelligent applications using Python
+🤖 Building AI-powered applications using Python & Streamlit
 
 🌱 Currently exploring
 
@@ -31,11 +32,34 @@
 - Generative AI
 - Data Analytics
 
-✨ I enjoy creating aesthetic user interfaces that combine creativity with technology.
+✨ I enjoy creating beautiful user interfaces that combine creativity with technology.
 
 📍 India 🇮🇳
 
 ---
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/jasminpucchakayala-maker" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jasmin-pucchakayala-050b29322/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
+<a href="mailto:jasminpucchakayala@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-E91E63?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+📧 **Email:** **jasminpucchakayala@gmail.com**
+
+💼 **LinkedIn:** **https://www.linkedin.com/in/jasmin-pucchakayala-050b29322/**
+
+</div>
 
 # 💻 Tech Stack
 
@@ -45,9 +69,12 @@
 
 <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js"/>
 
+
+
 ### Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+
 
 ### Tools
 
@@ -61,11 +88,11 @@
 
 <div align="center">
 
-| Data Science | Visualization |
-|:------------:|:-------------:|
-| Pandas | Matplotlib |
-| NumPy | Plotly |
-| Scikit-Learn | Seaborn |
+| AI & ML | Data Analysis | Visualization |
+|:-------:|:-------------:|:-------------:|
+| Scikit-Learn | Pandas | Matplotlib |
+| TensorFlow | NumPy | Plotly |
+| OpenCV | SciPy | Seaborn |
 
 </div>
 
@@ -79,7 +106,7 @@
 
 ✨ Features
 
-- 🧠 Disease Prediction
+- 🧠 Machine Learning Prediction
 - 📊 Analytics Dashboard
 - 📄 PDF Report Generation
 - 📈 Confidence Score
@@ -96,6 +123,8 @@
 
 ✔ Smart Responses
 
+✔ Streamlit Deployment
+
 ✔ Beautiful UI
 
 ---
@@ -106,9 +135,11 @@
 
 ✔ Logistic Regression
 
+✔ Text Classification
+
 ✔ TF-IDF
 
-✔ Text Classification
+✔ Streamlit Interface
 
 ---
 
@@ -116,9 +147,9 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=jasminpucchakayala-maker&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=jasminpucchakayala-maker&show_icons=true&hide_border=true&title_color=F8BBD9&icon_color=D8B4F8&text_color=666&bg_color=ffffff"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasminpucchakayala-maker&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasminpucchakayala-maker&layout=compact&hide_border=true&title_color=F8BBD9&text_color=666&bg_color=ffffff"/>
 
 </div>
 
@@ -128,7 +159,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=jasminpucchakayala-maker&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=jasminpucchakayala-maker&hide_border=true&ring=F8BBD9&fire=D8B4F8&currStreakLabel=F8BBD9"/>
 
 </div>
 
@@ -138,7 +169,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jasminpucchakayala-maker&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jasminpucchakayala-maker&bg_color=ffffff&color=D8B4F8&line=F8BBD9&point=F4C2C2&area=true&hide_border=true"/>
 
 </div>
 
@@ -148,7 +179,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jasminpucchakayala-maker&theme=tokyonight&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jasminpucchakayala-maker&theme=flat&margin-w=15&margin-h=15&no-frame=true&column=4"/>
 
 </div>
 
@@ -160,11 +191,13 @@
 
 🌸 Deep Learning
 
-🌸 Natural Language Processing
-
 🌸 Generative AI
 
-🌸 Data Analytics
+🌸 Natural Language Processing
+
+🌸 Streamlit
+
+🌸 Data Visualization
 
 ---
 
@@ -172,30 +205,16 @@
 
 <div align="center">
 
-<a href="https://github.com/jasminpucchakayala-maker" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
+<a href="https://github.com/jasminpucchakayala-maker">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/jasmin-pucchakayala-050b29322/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:jasminpucchakayala@gmail.com">
+<a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-F8BBD9?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-💼 **LinkedIn:**  
-<a href="https://www.linkedin.com/in/jasmin-pucchakayala-050b29322/" target="_blank">
-https://www.linkedin.com/in/jasmin-pucchakayala-050b29322/
-</a>
-
-<br><br>
-
-📧 **Email:**  
-<a href="mailto:jasminpucchakayala@gmail.com">
-jasminpucchakayala@gmail.com
 </a>
 
 </div>
@@ -216,8 +235,6 @@ jasminpucchakayala@gmail.com
 
 ### ⭐ Thank you for visiting my profile!
 
-If you like my work, consider ⭐ starring my repositories and connecting with me on LinkedIn.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=20,24,30"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD9,D8B4F8&height=120&section=footer"/>
 
 </div>
