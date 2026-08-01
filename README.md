@@ -4,13 +4,11 @@
 
 # 🌸 Hi, I'm Jasmin Pucchakayala 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=800&color=F8BBD9&lines=Artificial+Intelligence+%26+Data+Science+Student;Machine+Learning+Enthusiast;Python+Developer;Building+AI-Powered+Applications;Creating+Beautiful+User+Experiences;Always+Learning+Something+New+🌸)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&center=true&vCenter=true&width=800&color=F8BBD9&lines=Artificial+Intelligence+%26+Data+Science+Student;Machine+Learning+Enthusiast;Python+Developer;Building+AI-Powered+Applications;Always+Learning+Something+New+🌸)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=jasminpucchakayala-maker&label=Profile%20Views&color=F8BBD9&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/jasminpucchakayala-maker?style=for-the-badge&color=D8B4F8&labelColor=1E1E2E"/>
-
-<img src="https://img.shields.io/github/stars/jasminpucchakayala-maker?style=for-the-badge&color=F8BBD9&labelColor=1E1E2E"/>
+<img src="https://img.shields.io/github/followers/jasminpucchakayala-maker?style=for-the-badge&color=D8B4F8"/>
 
 </div>
 
@@ -18,23 +16,23 @@
 
 # 🌸 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-🎓 **B.Tech in Artificial Intelligence & Data Science**
+🎓 **B.Tech Artificial Intelligence & Data Science Student**
 
 💖 Passionate about Artificial Intelligence, Machine Learning & Data Science
 
-🤖 Building intelligent applications using Python & Streamlit
+💻 Python Developer who enjoys building intelligent applications
 
 🌱 Currently learning
 
+- Machine Learning
 - Deep Learning
-- Natural Language Processing
 - Generative AI
+- Natural Language Processing
 - Data Analytics
-- Large Language Models (LLMs)
 
-🎨 I enjoy designing aesthetic interfaces while solving real-world problems.
+✨ I enjoy creating aesthetic user interfaces while solving real-world problems.
 
 📍 India 🇮🇳
 
@@ -44,41 +42,20 @@
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js"/>
-
-### Frameworks
-
-<img src="https://skillicons.dev/icons?i=react,flask,streamlit"/>
-
-### AI / Machine Learning
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,mysql,sqlite,git,github,vscode,figma,linux"/>
 
 </div>
 
 ---
 
-# 📚 Libraries
+# 📚 Libraries & Tools
 
-<div align="center">
-
-| AI & ML | Data Analysis | Visualization |
-|:-------:|:-------------:|:-------------:|
-| Scikit-Learn | Pandas | Plotly |
-| TensorFlow | NumPy | Matplotlib |
-| OpenCV | SciPy | Seaborn |
-
-</div>
+- 🐼 Pandas
+- 🔢 NumPy
+- 🤖 Scikit-Learn
+- 📊 Matplotlib
+- 📈 Plotly
+- 🎨 Seaborn
 
 ---
 
@@ -86,44 +63,33 @@
 
 ## 🩺 MediSense AI
 
-**AI-powered Disease Prediction System**
+AI-powered Disease Prediction System using Machine Learning & Streamlit.
 
-✨ Features
+### Features
 
 - 🧠 Disease Prediction
 - 📈 Confidence Score
 - 📊 Analytics Dashboard
 - 📄 PDF Report Generation
 - 📜 Prediction History
-- 🎨 Premium Streamlit UI
 
 ---
 
 ## 🤖 Student AI Chatbot
 
-**Smart chatbot for answering student queries**
+AI chatbot designed to answer student queries with an interactive interface.
 
-✔ AI-powered responses
+### Features
 
-✔ Interactive Streamlit UI
-
-✔ Fast & responsive
-
-✔ User-friendly design
+- Smart Responses
+- User-friendly UI
+- Streamlit Deployment
 
 ---
 
 ## 📰 Fake News Detection
 
-**Machine Learning + NLP**
-
-✔ Logistic Regression
-
-✔ TF-IDF Vectorization
-
-✔ Text Classification
-
-✔ Streamlit Web App
+Machine Learning model to classify fake and real news using NLP.
 
 ---
 
@@ -131,9 +97,9 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=jasminpucchakayala-maker&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jasminpucchakayala-maker&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasminpucchakayala-maker&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasminpucchakayala-maker&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -175,15 +141,13 @@
 
 🌸 Deep Learning
 
-🌸 Natural Language Processing
-
 🌸 Generative AI
+
+🌸 Natural Language Processing
 
 🌸 Streamlit
 
 🌸 Data Visualization
-
-🌸 LLM Applications
 
 ---
 
@@ -191,23 +155,23 @@
 
 <div align="center">
 
-<a href="https://github.com/jasminpucchakayala-maker">
+<a href="https://github.com/jasminpucchakayala-maker" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
-<a href="https://www.linkedin.com/in/jasmin-pucchakayala-050b29322/">
+<a href="https://www.linkedin.com/in/jasmin-pucchakayala-050b29322/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
 <a href="mailto:jasminpucchakayala@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-F8BBD9?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-E91E63?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-📧 **Email:** **jasminpucchakayala@gmail.com**
+💼 <b><a href="https://www.linkedin.com/in/jasmin-pucchakayala-050b29322/" target="_blank">LinkedIn Profile</a></b>
 
-💼 **LinkedIn:** **linkedin.com/in/jasmin-pucchakayala-050b29322**
+📧 <b><a href="mailto:jasminpucchakayala@gmail.com">jasminpucchakayala@gmail.com</a></b>
 
 </div>
 
@@ -215,11 +179,11 @@
 
 # 💖 Fun Facts
 
-✨ I love combining **AI + Creativity**
+✨ I love combining AI with creativity.
 
-🌸 I enjoy designing aesthetic user interfaces.
+🌸 I enjoy designing beautiful and intuitive user interfaces.
 
-🚀 My goal is to build impactful AI applications that solve real-world problems.
+🚀 My goal is to build AI solutions that create a positive impact.
 
 ☕ Coffee + Code = Productivity
 
@@ -229,7 +193,7 @@
 
 <div align="center">
 
-> *"Success isn't about knowing everything—it's about never stopping learning."* 🌸
+> *"The beautiful thing about learning is that no one can take it away from you."* 🌸
 
 </div>
 
@@ -237,9 +201,9 @@
 
 <div align="center">
 
-### 💖 Thanks for visiting my profile!
+### 🌸 Thanks for visiting my profile!
 
-⭐ If you like my work, consider following me and checking out my repositories.
+⭐ Feel free to explore my repositories and connect with me.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=20,24,30"/>
 
