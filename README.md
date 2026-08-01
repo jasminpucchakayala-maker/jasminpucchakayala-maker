@@ -201,26 +201,6 @@
 
 ---
 
-# 💌 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/jasminpucchakayala-maker">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-F8BBD9?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
 # 🌸 Quote
 
 <div align="center">
